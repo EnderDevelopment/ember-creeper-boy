@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <!-- Minecraft 64x64 Skin Texture: Nether-Themed Teenage Boy -->
+  <!-- Standard layout: Head (0-8,8-16), Body (16-20,20-28), Arms (44-48,20-28 + 36-40,20-28), Legs (4-8,20-28 + 20-24,20-28) -->
+
+  <!-- ==================== HEAD (rows 8-15, cols 0-7) ==================== -->
+
+  <!-- Top of head (hair - messy brown) - rows 8-9 -->
+  <rect x="0" y="8" width="8" height="1" fill="#3D2B1F"/>
+  <rect x="0" y="9" width="8" height="1" fill="#4A3623"/>
+
+  <!-- Hair top strand details -->
+  <rect x="0" y="9" width="1" height="1" fill="#5C4330"/>
+  <rect x="2" y="9" width="2" height="1" fill="#5C4330"/>
+  <rect x="5" y="9" width="2" height="1" fill="#5C4330"/>
+
+  <!-- Middle of head - face area, rows 10-12 -->
+  <!-- Row 10: forehead with messy hair -->
+  <rect x="0" y="10" width="1" height="3" fill="#3D2B1F"/>
+  <rect x="7" y="10" width="1" height="3" fill="#3D2B1F"/>
+  <!-- forehead skin -->
+  <rect x="1" y="10" width="6" height="1" fill="#E8B890"/>
+  <!-- messy hair strands on forehead -->
+  <rect x="2" y="10" width="1" height="1" fill="#4A3623"/>
+  <rect x="4" y="10" width="2" height="1" fill="#3D2B1F"/>
+
+  <!-- Row 11: eyes area - glowing red eyes -->
+  <rect x="1" y="11" width="1" height="1" fill="#E8B890"/>
+  <rect x="2" y="11" width="2" height="1" fill="#FF2020"/>
+  <rect x="3" y="11" width="1" height="1" fill="#FF4040"/>
+  <rect x="4" y="11" width="1" height="1" fill="#E8B890"/>
+  <rect x="5" y="11" width="2" height="1" fill="#FF2020"/>
+  <rect x="6" y="11" width="1" height="1" fill="#FF5555"/>
+  <rect x="7" y="11" width="1" height="1" fill="#E8B890"/>
+
+  <!-- Row 12: nose area + eyes glow below -->
+  <rect x="1" y="12" width="6" height="1" fill="#E8B890"/>
+  <rect x="2" y="12" width="2" height="1" fill="#D4A070"/>
+  <rect x="5" y="12" width="2" height="1" fill="#D4A070"/>
+
+  <!-- Row 13: black face mask covering lower face -->
+  <rect x="0" y="13" width="1" height="2" fill="#3D2B1F"/>
+  <rect x="7" y="13" width="1" height="2" fill="#3D2B1F"/>
+  <rect x="1" y="13" width="6" height="2" fill="#1A1A1A"/>
+
+  <!-- Hanging hair sides (rows 13-15) -->
+  <rect x="0" y="13" width="1" height="3" fill="#3D2B1F"/>
+  <rect x="7" y="13" width="1" height="3" fill="#3D2B1F"/>
+
+  <!-- Bottom of head: chin with mask, row 15 -->
+  <rect x="1" y="15" width="6" height="1" fill="#1A1A1A"/>
+
+  <!-- ==================== HEAD OVERLAY / HAT LAYER (rows 40-47) ========== -->
+  <!-- Ember hair accents on top of head -->
+  <rect x="1" y="40" width="1" height="1" fill="#FF4500"/>
+  <rect x="3" y="40" width="1" height="1" fill="#FF6622"/>
+  <rect x="5" y="40" width="1" height="1" fill="#FF4500"/>
+
+  <!-- ==================== BODY (rows 20-27, cols 20-27) ==================== -->
+
+  <!-- Body top - hoodie shoulders, rows 20-21 -->
+  <rect x="20" y="20" width="8" height="1" fill="#B22222"/>
+  <rect x="20" y="21" width="1" height="1" fill="#8B0000"/>
+  <rect x="21" y="21" width="6" height="1" fill="#B22222"/>
+  <rect x="27" y="21" width="1" height="1" fill="#8B0000"/>
+
+  <!-- Body - fiery creeper hoodie, rows 22-25 -->
+  <!-- Row 22: creeper face starts -->
+  <rect x="20" y="22" width="1" height="4" fill="#8B0000"/>
+  <rect x="27" y="22" width="1" height="4" fill="#8B0000"/>
+  <rect x="21" y="22" width="6" height="1" fill="#B22222"/>
+  <!-- Creeper face eyes (orange) -->
+  <rect x="22" y="22" width="1" height="1" fill="#FF7722"/>
+  <rect x="25" y="22" width="1" height="1" fill="#FF7722"/>
+
+  <!-- Row 23: creeper face continues -->
+  <rect x="21" y="23" width="6" height="1" fill="#B22222"/>
+  <rect x="22" y="23" width="1" height="1" fill="#FF6622"/>
+  <rect x="25" y="23" width="1" height="1" fill="#FF6622"/>
+
+  <!-- Row 24: creeper mouth / nose -->
+  <rect x="21" y="24" width="6" height="1" fill="#B22222"/>
+  <rect x="23" y="24" width="2" height="1" fill="#FF7722"/>
+
+  <!-- Row 25: creeper face bottom -->
+  <rect x="21" y="25" width="6" height="1" fill="#A01010"/>
+
+  <!-- Row 26-27: body lower with ember effects -->
+  <rect x="20" y="26" width="8" height="1" fill="#8B0000"/>
+  <rect x="20" y="27" width="8" height="1" fill="#6B0000"/>
+  <!-- Ember dots on body -->
+  <rect x="22" y="26" width="1" height="1" fill="#FF4500"/>
+  <rect x="25" y="27" width="1" height="1" fill="#FF6600"/>
+
+  <!-- ==================== BODY OVERLAY JACKET LAYER (rows 52-59, cols 20-27) ===== -->
+  <!-- Hoodie overlay details -->
+  <rect x="20" y="52" width="8" height="1" fill="#8B0000"/>
+  <rect x="21" y="53" width="6" height="1" fill="#A01010"/>
+  <!-- creeper pattern on overlay -->
+  <rect x="22" y="54" width="1" height="1" fill="#FF5522"/>
+  <rect x="25" y="54" width="1" height="1" fill="#FF5522"/>
+  <rect x="23" y="56" width="2" height="1" fill="#FF5522"/>
+
+  <!-- ==================== RIGHT ARM (cols 44-47, rows 20-27) ==================== -->
+  <!-- Right arm: hoodie sleeve, rows 20-23 -->
+  <rect x="44" y="20" width="4" height="1" fill="#B22222"/>
+  <rect x="44" y="21" width="4" height="1" fill="#A01010"/>
+  <rect x="44" y="22" width="4" height="1" fill="#B22222"/>
+  <rect x="47" y="22" width="1" height="1" fill="#FF4500"/>
+  <rect x="44" y="23" width="4" height="1" fill="#A01010"/>
+
+  <!-- Right hand (skin), rows 24-27 -->
+  <rect x="44" y="24" width="4" height="1" fill="#E8B890"/>
+  <rect x="44" y="25" width="4" height="1" fill="#D4A070"/>
+  <rect x="44" y="26" width="4" height="1" fill="#E8B890"/>
+  <rect x="44" y="27" width="4" height="1" fill="#D4A070"/>
+
+  <!-- ==================== LEFT ARM (cols 36-39, rows 20-27) ==================== -->
+  <!-- Left arm: hoodie sleeve -->
+  <rect x="36" y="20" width="4" height="1" fill="#B22222"/>
+  <rect x="36" y="21" width="4" height="1" fill="#A01010"/>
+  <rect x="36" y="22" width="4" height="1" fill="#B22222"/>
+  <rect x="36" y="22" width="1" height="1" fill="#FF4500"/>
+  <rect x="36" y="23" width="4" height="1" fill="#A01010"/>
+
+  <!-- Left hand (skin) -->
+  <rect x="36" y="24" width="4" height="1" fill="#E8B890"/>
+  <rect x="36" y="25" width="4" height="1" fill="#D4A070"/>
+  <rect x="36" y="26" width="4" height="1" fill="#E8B890"/>
+  <rect x="36" y="27" width="4" height="1" fill="#D4A070"/>
+
+  <!-- ==================== ARM OVERLAY (sleeves) rows 48-55 ===================== -->
+  <!-- Left arm overlay (cols 40-43) -->
+  <rect x="40" y="48" width="4" height="2" fill="#8B0000"/>
+  <rect x="41" y="49" width="1" height="1" fill="#FF4500"/>
+  <rect x="40" y="50" width="4" height="1" fill="#A01010"/>
+  <!-- Right arm overlay (cols 44-47) -->
+  <rect x="44" y="48" width="4" height="2" fill="#8B0000"/>
+  <rect x="46" y="49" width="1" height="1" fill="#FF4500"/>
+  <rect x="44" y="50" width="4" height="1" fill="#A01010"/>
+
+  <!-- ==================== RIGHT LEG (cols 4-7, rows 20-27) ==================== -->
+  <!-- Dark tactical pants -->
+  <rect x="4" y="20" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="4" y="21" width="4" height="1" fill="#333333"/>
+  <rect x="4" y="22" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="4" y="23" width="4" height="1" fill="#333333"/>
+  <!-- tactical pocket/strap -->
+  <rect x="4" y="24" width="1" height="1" fill="#3D3D3D"/>
+  <rect x="4" y="25" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="4" y="26" width="4" height="1" fill="#333333"/>
+  <!-- Combat boot, rows 26-27 -->
+  <rect x="4" y="27" width="4" height="1" fill="#1A1A1A"/>
+  <!-- boot accent -->
+  <rect x="4" y="27" width="1" height="1" fill="#2A2A2A"/>
+
+  <!-- ==================== LEFT LEG (cols 20-23, rows 20-27) ==================== -->
+  <rect x="20" y="20" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="21" width="4" height="1" fill="#333333"/>
+  <rect x="20" y="22" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="23" width="4" height="1" fill="#333333"/>
+  <!-- tactical pocket -->
+  <rect x="23" y="24" width="1" height="1" fill="#3D3D3D"/>
+  <rect x="20" y="25" width="4" height="1" fill="#2A2A2A"/>
+  <rect x="20" y="26" width="4" height="1" fill="#333333"/>
+  <!-- Combat boot -->
+  <rect x="20" y="27" width="4" height="1" fill="#1A1A1A"/>
+  <rect x="23" y="27" width="1" height="1" fill="#2A2A2A"/>
+
+  <!-- ==================== LEG OVERLAY (rows 28-35) ============================ -->
+  <!-- Right leg overlay (cols 4-7) -->
+  <rect x="4" y="28" width="4" height="2" fill="#2A2A2A"/>
+  <rect x="4" y="32" width="4" height="1" fill="#1A1A1A"/>
+  <!-- Left leg overlay (cols 8-11) -->
+  <rect x="8" y="28" width="4" height="2" fill="#2A2A2A"/>
+  <rect x="8" y="32" width="4" height="1" fill="#1A1A1A"/>
+
+</svg>
